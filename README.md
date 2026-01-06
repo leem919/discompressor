@@ -1,4 +1,4 @@
-# discompressor
+# Discompressor
 Video compressor for Discord
 
 # Usage
